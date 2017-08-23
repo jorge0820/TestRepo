@@ -1,7 +1,7 @@
 Animals:
 
 Birds
-Fish
-Cats
 Lizards
+Snakes
+
 
